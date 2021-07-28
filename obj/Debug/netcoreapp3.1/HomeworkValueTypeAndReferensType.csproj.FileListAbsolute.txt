@@ -1,0 +1,12 @@
+D:\Степапка\DEX\Домашние задания\Тип данных значение и ссылочный\HomeworkValueTypeAndReferensType\HomeworkValueTypeAndReferensType\bin\Debug\netcoreapp3.1\HomeworkValueTypeAndReferensType.exe
+D:\Степапка\DEX\Домашние задания\Тип данных значение и ссылочный\HomeworkValueTypeAndReferensType\HomeworkValueTypeAndReferensType\bin\Debug\netcoreapp3.1\HomeworkValueTypeAndReferensType.deps.json
+D:\Степапка\DEX\Домашние задания\Тип данных значение и ссылочный\HomeworkValueTypeAndReferensType\HomeworkValueTypeAndReferensType\bin\Debug\netcoreapp3.1\HomeworkValueTypeAndReferensType.runtimeconfig.json
+D:\Степапка\DEX\Домашние задания\Тип данных значение и ссылочный\HomeworkValueTypeAndReferensType\HomeworkValueTypeAndReferensType\bin\Debug\netcoreapp3.1\HomeworkValueTypeAndReferensType.runtimeconfig.dev.json
+D:\Степапка\DEX\Домашние задания\Тип данных значение и ссылочный\HomeworkValueTypeAndReferensType\HomeworkValueTypeAndReferensType\bin\Debug\netcoreapp3.1\HomeworkValueTypeAndReferensType.dll
+D:\Степапка\DEX\Домашние задания\Тип данных значение и ссылочный\HomeworkValueTypeAndReferensType\HomeworkValueTypeAndReferensType\bin\Debug\netcoreapp3.1\HomeworkValueTypeAndReferensType.pdb
+D:\Степапка\DEX\Домашние задания\Тип данных значение и ссылочный\HomeworkValueTypeAndReferensType\HomeworkValueTypeAndReferensType\obj\Debug\netcoreapp3.1\HomeworkValueTypeAndReferensType.csprojAssemblyReference.cache
+D:\Степапка\DEX\Домашние задания\Тип данных значение и ссылочный\HomeworkValueTypeAndReferensType\HomeworkValueTypeAndReferensType\obj\Debug\netcoreapp3.1\HomeworkValueTypeAndReferensType.AssemblyInfoInputs.cache
+D:\Степапка\DEX\Домашние задания\Тип данных значение и ссылочный\HomeworkValueTypeAndReferensType\HomeworkValueTypeAndReferensType\obj\Debug\netcoreapp3.1\HomeworkValueTypeAndReferensType.AssemblyInfo.cs
+D:\Степапка\DEX\Домашние задания\Тип данных значение и ссылочный\HomeworkValueTypeAndReferensType\HomeworkValueTypeAndReferensType\obj\Debug\netcoreapp3.1\HomeworkValueTypeAndReferensType.dll
+D:\Степапка\DEX\Домашние задания\Тип данных значение и ссылочный\HomeworkValueTypeAndReferensType\HomeworkValueTypeAndReferensType\obj\Debug\netcoreapp3.1\HomeworkValueTypeAndReferensType.pdb
+D:\Степапка\DEX\Домашние задания\Тип данных значение и ссылочный\HomeworkValueTypeAndReferensType\HomeworkValueTypeAndReferensType\obj\Debug\netcoreapp3.1\HomeworkValueTypeAndReferensType.genruntimeconfig.cache
